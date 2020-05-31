@@ -2,9 +2,9 @@
 title:       Daily Coding Info
 email:       dailycodinginfo@gmail.com
 author:      
-description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+description: "We want to take large software engineering topics and break them down into concise chunks that are easily consumable to the most beginner of programmers!"
 baseurl:     ""
-url:         "https://mixyll.saikiransripada.com"
+url:         "http://daily.coding.info.bucket.com.s3-website-us-east-1.amazonaws.com/"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -85,3 +85,4 @@ exclude:
   - Rakefile
   - README.md
   - vendor
+  - _config.yaml
