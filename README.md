@@ -1,15 +1,5 @@
 # Mixyll [![Jekyll Themes Shield](https://img.shields.io/badge/featured%20on-JT-red.svg)](https://jekyll-themes.com/mixyll/)
 
-[Mixyll](https://mixyll.saikiransripada.com/)
-
-![Mixyll screenshot](https://mixyll.saikiransripada.com/screenshot.png)
-
-Mixyll (minimal version of [Pixyll](https://github.com/johno/pixyll)) is a simple, beautiful theme for Jekyll theme that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
-
-It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.
-
-This Jekyll theme was originally crafted by [John Otander](http://johnotander.com) as [Pixyll](https://github.com/johno/pixyll) and modified by [Sai Kiran Sripada](https://www.saikiransripada.com/).
-
 ## Getting Started
 
 If you're completely new to Jekyll, I recommend checking out the documentation at <http://jekyllrb.com> or there's a tutorial by [Smashing Magazine](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/).
