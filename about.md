@@ -1,20 +1,13 @@
 ---
 layout: page
-title: About Mixyll
+title: About Daily Coding Info
 permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was originally crafted by [John Otander](http://johnotander.com) as [Pixyll](https://github.com/johno/pixyll) and modified by [Sai Kiran Sripada](https://www.saikiransripada.com/).
+We want to take large software engineering topics and break them down into concise chunks that are easily consumable to the most beginner of programmers! 
 
-Checkout the [Github repository](https://github.com/saikiransripada/mixyll) to download it,
+Checkout the [Github repository](https://github.com/Daily-Coding-Info) to see any related tutorial code,
 request a feature, report a bug, or contribute. It's free, and open source
 ([MIT](http://opensource.org/licenses/MIT)).
 
-Thanks to the following:
-
-* [Pixyll](https://github.com/johno/pixyll)
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
