@@ -65,3 +65,17 @@
 .related-posts a:hover {
   text-decoration: underline;
 }
+
+.subscribe-posts {
+  line-height: $h1;
+  padding-top: $space-2;
+}
+
+.subscribe-posts a {
+  color: $dark-gray;
+  background-image: none;
+}
+
+.subscribe-posts a:hover {
+  text-decoration: underline;
+}
