@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daily Coding Info</title>
+    <description>We want to take large software engineering topics and break them down into concise chunks that are easily consumable to the most beginner of programmers!</description>
+    <link>http://daily.coding.info.bucket.com.s3-website-us-east-1.amazonaws.com//</link>
+    <atom:link href="http://daily.coding.info.bucket.com.s3-website-us-east-1.amazonaws.com//feed.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>

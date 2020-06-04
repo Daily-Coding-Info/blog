@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title></title>
+    <link>http://daily.coding.info.bucket.com.s3-website-us-east-1.amazonaws.com/</link>
+    <description>
+      We want to take large software engineering topics and break them down into concise chunks that are easily consumable to the most beginner of programmers!
+    </description>
+    
+  </channel>
+</rss>

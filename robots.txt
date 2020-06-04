@@ -1,0 +1,1 @@
+Sitemap: http://daily.coding.info.bucket.com.s3-website-us-east-1.amazonaws.com//sitemap.xml
